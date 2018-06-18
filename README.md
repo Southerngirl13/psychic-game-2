@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/Southerngirl13/kjs-portfolio/blob/master/img/site.png" width="70%">
+  <img src="https://github.com/Southerngirl13/kjs-portfolio/blob/master/assets/images/psychic.jpg" width="70%">
 </h1>
 
 ## About
