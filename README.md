@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/Southerngirl13/psychic-game-2/blob/master/assets/images/psychic.jpg" width="70%">
+  <img src="https://github.com/Southerngirl13/psychic-game-2/blob/master/assets/images/psychic.jpg" width="50%">
 </h1>
 
 ## About
