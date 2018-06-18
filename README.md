@@ -1,9 +1,15 @@
 # Psychic Game
 
+
+<h1 align="center">
+  <br>
+  <img src="https://github.com/Southerngirl13/kjs-portfolio/blob/master/img/site.png" width="70%">
+</h1>
+
 ## About
 
 Simple JavaScript game that allows user to guess the letter the computer chooses.
-Choose a letter from A - Z and test your psycic ability to see if you can read a computer's mind!
+Choose a letter from A - Z and test your psychic ability to see if you can read a computer's mind!
 This game was built with regular JavaScript.
 
 It's hosted online. It can be played on the browser [here](https://southerngirl13.github.io/psychic-game-2/).
